@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "277775692",
+    "project_id": "events-200ff",
+    "storage_bucket": "events-200ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277775692:android:0743086e9fb1f3946ffbe9",
+        "android_client_info": {
+          "package_name": "com.moreri.eventsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277775692-dmndjd1a8d9gsl0qlukdek4hgvlbladi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moreri.eventsdemo",
+            "certificate_hash": "9a151a18f5417c092a87a27bf3c9b3e0734f8f07"
+          }
+        },
+        {
+          "client_id": "277775692-hntucmveit6v0pvomtocv6p1h0avr4or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg0dFjwt47WR0WGij2lhcetK9sZBJxNn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277775692-hntucmveit6v0pvomtocv6p1h0avr4or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
